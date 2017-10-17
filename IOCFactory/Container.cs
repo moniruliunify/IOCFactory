@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace IOCFactory
 {
-    public class Class1
+    public class Container
     {
     }
 }
